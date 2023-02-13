@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoappcopyuseForm/static/css/main.3c2c6bd5.css",
+    "main.js": "/todoappcopyuseForm/static/js/main.7725cd98.js",
+    "static/js/787.bb1fc481.chunk.js": "/todoappcopyuseForm/static/js/787.bb1fc481.chunk.js",
+    "index.html": "/todoappcopyuseForm/index.html",
+    "main.3c2c6bd5.css.map": "/todoappcopyuseForm/static/css/main.3c2c6bd5.css.map",
+    "main.7725cd98.js.map": "/todoappcopyuseForm/static/js/main.7725cd98.js.map",
+    "787.bb1fc481.chunk.js.map": "/todoappcopyuseForm/static/js/787.bb1fc481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c2c6bd5.css",
+    "static/js/main.7725cd98.js"
+  ]
+}
